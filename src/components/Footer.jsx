@@ -13,7 +13,7 @@ const Footer = () => {
             <div className='bg-secondary font-[montserrat] text-white flex flex-col justify-center text-center'>
                 <h5 className='font-bold text-[10px] underline'>Get in Touch</h5>
                 <p className='text-[10px] md:text-xs'>@redlightbuskin.</p>
-                <p className='text-[10px] md:text-xs'>Curator: David Anglin</p>
+
                 <p className='text-[10px] md:text-xs'> Online Otters. All rights reserved.</p>
             </div>
 
